@@ -1,0 +1,100 @@
+nav > a > img{
+    height: 50px;
+    width: 180px;
+}
+.nav-link {
+    margin-left: 20px;
+    font-weight: bold;
+}
+.navbar{
+     background-color: darkcyan !important; 
+}
+/* i{
+    height: 100px;
+    width: 150px;
+} */
+.fa-user-plus{
+    font-size: 26px !important;
+    margin-right: 15px;
+}
+.card{
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 70px;
+    
+    
+}
+.maincard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.fa-home{
+    font-size: 40px !important;
+}
+
+.ourservices,.ourservices2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+
+.os1,.os2,.os3,.os4,.os5,.os6{
+
+    display: flex;
+    width: 400px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 4px 4px 5px grey;
+    color: darkcyan;
+    margin-top: 20px;
+
+} 
+.fa-home,.fa-calendar-check-o,.fa-certificate,.fa-money,.fa-handshake-o,.fa-phone{
+    font-size: 30px !important;
+    color:  darkcyan;
+    margin-right: 20px;
+}
+
+.footer{
+    margin-top: 30px;
+    width: 100%;
+    height: 80px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.fa-copyright{
+font-size: 30px !important;
+
+}
+
+.footer > h5 {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.samsung,.samsung2,.apple,.apple2,.huawei,.nokia, .accessories{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.samsung1,.apple1,.huawei1,.nokia1,.accessories1{
+    box-shadow: 4px 4px 4px 5px grey;
+    
+}
+
+.btn-primary{
+    background-color: darkcyan !important;
+}
